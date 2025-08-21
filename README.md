@@ -1,1 +1,1 @@
-.NET Project
+.NET Project giving you User or Admin(Manager) login options.Manager can Add,Edit,Delete his Employees and Book Storage in the Library while the User can only order books.All Login,Order,Employees and Books information is stored in SQL Server Database.
